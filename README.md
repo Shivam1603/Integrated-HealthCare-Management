@@ -1,4 +1,4 @@
-# Integrated-HealthCare-Management
+# Integrated HealthCare Management
 This project seeks to delve into multiple objectives pertaining to the ever-increasing role of artificial intelligence in the field of healthcare, addressing potential stakeholders involved in the upgradation of medical health facilities provided to the masses and eventually upping the ante with even more inclusive public healthcare policies.
 ## Dataset and Methods
 The dataset is publicly available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD).The dataset provides the patients’ information. It includes around 4,000 records and 15 attributes (variables) such as gender, age, education, current smoker, cigarettes per day, BP medicine, prevalent stroke, prevalent hypertension, diabetes, cholesterol level, systolic BP, diastolic BP, BMI, heart rate and glucose level.
